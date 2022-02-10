@@ -1,0 +1,22 @@
+{
+  "name": "coding-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/getFlippedPoints/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelanding/coding-interview.git"
+  },
+  "author": "landing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thelanding/coding-interview/issues"
+  },
+  "homepage": "https://github.com/thelanding/coding-interview#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
